@@ -4,4 +4,5 @@ public class 3dCompare {
     private String address;
     private String phoneNumber;
     private String attribute;
+    private String drawing;
 }
